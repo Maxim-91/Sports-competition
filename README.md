@@ -1,4 +1,4 @@
-This application is built using C++ and VCL (Visual Component Library) to manage and analyze data about sports teams. The program allows users to input team data, save it to a file, and perform an analysis to find teams with specific characteristics, such as the youngest, shortest, or lightest teams.
+The program allows users to input team data, save it to a file, and perform an analysis to find teams with specific characteristics, such as the youngest, shortest, or lightest teams.
 
 ## Features
 
